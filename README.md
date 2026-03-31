@@ -1,5 +1,5 @@
 - 👋 Hi, we are @carpoolingteam
-- 👀 We are interested in carpooling optimization models
+- 👀 We are interested in carpooling optimization models, machine learning, team formation, sharing economy models. 
 
 <!---
 carpoolingteam/carpoolingteam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
