@@ -56,6 +56,7 @@ for i in range(len(x)):
             rand_worker=random.randint(1, x[i])
             feasiblity=False
             while feasiblity==False:
+                schedule[1:-1, :] = 0
                 for l in range(t):
                     counter_worker = 0
                     while counter_worker < worker_number:
